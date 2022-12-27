@@ -1,0 +1,138 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:07:20] "GET /index?type=cpu&at=all HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:07:26] "GET /index?type=cpu&at=current HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:08:19] "GET /index?type=cpu&at=current HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:08:24] "GET /index?type=cpu&at=all HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:10:37] "GET /index?type=cpu&at=all HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:10:38] "GET /index?type=cpu&at=all HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:25:13] "[35m[1mGET /cpu?type=all HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:25:13] "GET /cpu?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:25:13] "GET /cpu?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:25:13] "GET /cpu?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:25:14] "GET /cpu?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:27:15] "[35m[1mGET /cpu?type=all HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:27:15] "GET /cpu?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:27:15] "GET /cpu?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:27:15] "GET /cpu?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:29:30] "[35m[1mGET /cpu?type=all HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:29:30] "GET /cpu?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:29:30] "GET /cpu?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:29:30] "GET /cpu?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:36:23] "[35m[1mGET /cpu?type=all HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:36:24] "GET /cpu?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:36:24] "GET /cpu?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:36:24] "GET /cpu?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:37:27] "[35m[1mGET /cpu?type=all HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:37:27] "GET /cpu?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:37:27] "GET /cpu?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:37:27] "GET /cpu?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:41:28] "[35m[1mGET /cpu?type=all HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:41:28] "GET /cpu?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:41:28] "GET /cpu?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:41:29] "GET /cpu?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:42:22] "GET /cpu?type=all HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:42:30] "GET /cpu?type=current HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:42:39] "GET /cpu?type=current HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:44:29] "GET /cpu?type=current HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:44:34] "[35m[1mGET /cpu?type=all HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:44:34] "GET /cpu?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:44:34] "GET /cpu?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:44:34] "GET /cpu?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:44:34] "GET /cpu?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:44:55] "GET /cpu?type=all HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:47:18] "[35m[1mGET /disk?type=all HTTP/1.1[0m" 500 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:47:18] "GET /disk?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:47:18] "GET /disk?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:47:18] "GET /disk?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:47:18] "GET /disk?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.0.2.15:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 312-741-048
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:50:00] "GET /disk?type=all HTTP/1.1" 200 -
+INFO:werkzeug:10.0.2.15 - - [22/Dec/2022 07:50:11] "GET /memory?type=all HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.17.0.2:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 264-338-470
